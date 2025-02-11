@@ -60,7 +60,7 @@ Solution either by connecting to a series of dummy IoT devices or manipulating t
 Each tutorial is a self-contained learning exercise designed to teach the developer about a single aspect of FIWARE. A
 summary of the goal of the tutorial can be found in the description at the head of each page. Every tutorial is
 associated with a GitHub repository holding the configuration files needed to run the examples. Most of the tutorials
-build upon concepts or enablers described in previous exercises the to create a complex smart solution which is
+build upon concepts or enablers described in previous exercises to create a complex smart solution which is
 _"powered by FIWARE"_.
 
 The tutorials are split according to the chapters defined within the
@@ -68,7 +68,7 @@ The tutorials are split according to the chapters defined within the
 chapter hence an introduction to a given enabler will occur before the full capabilities of that element are explored in
 more depth.
 
-It is recommended to start with reading the full **Core Context Management: The NGSI-v2 Interface** Chapter before
+It is recommended to start with reading the first **Core Context Management: The NGSI-v2 Interface** Chapter before
 moving on to other subjects, as this will give you a fuller understanding of the role of context data in general.
 However, it is not necessary to follow all the subsequent tutorials sequentially - as FIWARE is a modular system, you
 can choose which enablers are of interest to you.
